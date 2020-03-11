@@ -1,0 +1,31 @@
+#centralimgholder>img,
+#centralimgholder>div {
+    display: inline-block;
+}
+
+#centralimgholder {
+    margin: auto;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.row {
+    padding: 15px;
+}
+
+.bluebox {
+    background: #00BFFF;
+}
+
+.semesterwrap>h1,
+.semesterwrap>div {
+    width: 100%;
+}
+
+.purplebox {
+    background: #9999FF;
+}
+
+.buttonrow {
+    font-size: 0.75rem;
+}
